@@ -61,7 +61,7 @@ zeze's Personal Website.
 ```html
 <img src="https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fm.jobnjoy.com%2Ffiles%2Feditor%2F1455847733073_1.png" alt="kakao">
 ```
-<img src="https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fm.jobnjoy.com%2Ffiles%2Feditor%2F1455847733073_1.png" alt="kakao" width="100" height="100">
+<!--<img src="https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fm.jobnjoy.com%2Ffiles%2Feditor%2F1455847733073_1.png" alt="kakao" width="100" height="100"> -->
 
 
 ![kakao](Assets/kakao.png"kakao")
