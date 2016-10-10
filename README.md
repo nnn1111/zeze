@@ -12,6 +12,7 @@ zeze's Personal Website.
 
 
 ### 제목 
+
 ```html
 <h1>heading 1</h1>
 <h2>heading 2</h2>
@@ -19,6 +20,8 @@ zeze's Personal Website.
 <h4>heading 4</h4>
 <h5>heading 5</h5>
 <h6>heading 6</h6>
+```
+
 
 # Markdown H1
 ## Markdown H2
@@ -29,8 +32,10 @@ zeze's Personal Website.
 
 
 ### 목록
+
 ```html
 <!-- 비순차 -->
+ul>li{item$}*3
 <ul>
 	<li>item 1</li>
 	<li>item 2</li>
@@ -43,7 +48,7 @@ zeze's Personal Website.
 	<li>item 2</li>
 	<li>item 3</li>
 </ol>
-
+```
 
 ### 비순차 목록
 - item 1
@@ -59,7 +64,7 @@ zeze's Personal Website.
 ### 이미지
 ```html
 <img src="https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fm.jobnjoy.com%2Ffiles%2Feditor%2F1455847733073_1.png" alt="kakao">
-
+```
 <!--<img src="https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fm.jobnjoy.com%2Ffiles%2Feditor%2F1455847733073_1.png" alt="kakao" width="100" height="100"> -->
 
 
@@ -68,7 +73,10 @@ zeze's Personal Website.
 
 
 ### 하이퍼링크
+
+```html
 <a href="http://iropke.com/">이롭게 에이전시</a>
+```
 
 - [이롭게 광고, 반응형 웹(Responsive Web Design) 편](http://iropke.com/blog/archives/4436)
 
@@ -86,6 +94,7 @@ HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화
 
 
 ### 표 
+
 Job Type | Role
 ---|---
 Planner | Plan
