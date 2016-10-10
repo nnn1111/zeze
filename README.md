@@ -68,7 +68,6 @@ zeze's Personal Website.
 
 
 ### 하이퍼링크
-```html
 <a href="http://iropke.com/">이롭게 에이전시</a>
 
 - [이롭게 광고, 반응형 웹(Responsive Web Design) 편](http://iropke.com/blog/archives/4436)
@@ -76,7 +75,7 @@ zeze's Personal Website.
 
 
 ### 인용 구문
-```html
+
 인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
 HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화한다.
 
@@ -87,7 +86,6 @@ HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화
 
 
 ### 표 
-```html
 Job Type | Role
 ---|---
 Planner | Plan
